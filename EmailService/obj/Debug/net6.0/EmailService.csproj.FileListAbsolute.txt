@@ -1,0 +1,75 @@
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\appsettings.Development.json
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\appsettings.json
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\EmailService.exe
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\EmailService.deps.json
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\EmailService.runtimeconfig.json
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\EmailService.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\EmailService.pdb
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\MailKit.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\MimeKit.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.csproj.AssemblyReference.cache
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfoInputs.cache
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfo.cs
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.csproj.CoreCompileInputs.cache
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\staticwebassets.build.json
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\staticwebassets.development.json
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\scopedcss\bundle\EmailService.styles.css
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.csproj.CopyComplete
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.dll
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\refint\EmailService.dll
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.pdb
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\EmailService.genruntimeconfig.cache
+D:\patrick\EmailService\EmailService\obj\Debug\net6.0\ref\EmailService.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Humanizer.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\patrick\EmailService\EmailService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.csproj.AssemblyReference.cache
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfoInputs.cache
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfo.cs
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.csproj.CoreCompileInputs.cache
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.dll
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\refint\EmailService.dll
+D:\EmailService (1)\EmailService\EmailService\obj\Debug\net6.0\EmailService.pdb
